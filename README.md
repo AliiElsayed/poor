@@ -1,6 +1,6 @@
 # I_am_Poor
 
-A new Flutter project.
+A new Flutter project challenge.
 
 ## Getting Started
 
